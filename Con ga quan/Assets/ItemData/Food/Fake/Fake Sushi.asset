@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8850db301ebc30b479e583389ea632d7, type: 3}
+  m_Name: Fake Sushi
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: ada4f4e463054d144ab0aca24249ceb0, type: 3}
+  inspectIcon: {fileID: 21300000, guid: ada4f4e463054d144ab0aca24249ceb0, type: 3}
+  alternateIcon: {fileID: 21300000, guid: ada4f4e463054d144ab0aca24249ceb0, type: 3}
+  itemName: Fake Sushi
+  itemType: 0
+  maxBuy: 99
+  minProbabilityRange: 3
+  maxProbabilityRange: 8
+  itemMoney: 35
+  itemHealth: 25
+  itemDescription: Available at every all you can eat.
